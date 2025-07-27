@@ -48,9 +48,14 @@ header h2 {
   background: #005fa3;
   transform: translateY(-2px);
 }
-
 main {
-  padding: 40px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px 20px;
+  max-width: 1200px;
+  margin: auto;
+  gap: 30px;
 }
 
 footer {
