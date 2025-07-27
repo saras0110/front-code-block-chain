@@ -52,7 +52,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 50px 20px;
+  padding: 40px 20px;
   max-width: 1200px;
   margin: auto;
   gap: 30px;
